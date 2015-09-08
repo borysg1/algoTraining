@@ -24,7 +24,7 @@ int main (int argc, char * argv[])
 {
    if (2 != argc)
    {
-      printf("Usage: binaryPrint number\n");
+      printf("Usage: binary_num number\n");
       printf("'number' is positive integer number\n");
       exit(1);
    }
